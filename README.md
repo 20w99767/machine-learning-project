@@ -1,8 +1,10 @@
 # machine-learning-project
 Personal machine-learning-project collection
 
-## Contributing
+## Overview
+This repository contains various projects related to machine learning, including algorithms, data processing, and model building.
 
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the project
@@ -10,3 +12,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
 4. Push to the branch (`git push origin feat/amazing-feature`)
 5. Open a Pull Request
+
+## Future Work
+- Add more algorithms
+- Improve documentation
+
+## Technologies
+- Python
+- Scikit-Learn
+- TensorFlow
