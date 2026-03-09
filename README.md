@@ -1,8 +1,14 @@
 # machine-learning-project
+
 Personal machine-learning-project collection
 
 ## Overview
 This repository contains various projects related to machine learning, including algorithms, data processing, and model building.
+
+## Technologies
+- Python
+- Scikit-Learn
+- TensorFlow
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -17,7 +23,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Add more algorithms
 - Improve documentation
 
-## Technologies
-- Python
-- Scikit-Learn
-- TensorFlow
+## Acknowledgements
+- Thanks to contributors who helped improve this project.
