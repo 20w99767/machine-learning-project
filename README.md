@@ -25,3 +25,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Acknowledgements
 - Thanks to contributors who helped improve this project.
+- This project follows the MIT License.
+
